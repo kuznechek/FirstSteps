@@ -1,0 +1,29 @@
+[Data Source]
+DisplayName=kujinechek@gmail.com
+Enabled=true
+Parent=c46f65b8bd27a4ae99aa40a584ffb905a67b92db
+
+[Mail Submission]
+SentFolder=folder://local/Sent
+TransportUid=b899a45755acae03fdb269b6179830fddc9d0e7c
+RepliesToOriginFolder=false
+UseSentFolder=true
+
+[Mail Composition]
+Bcc=
+Cc=
+DraftsFolder=folder://local/Drafts
+ReplyStyle=default
+SignImip=true
+TemplatesFolder=
+StartBottom=inconsistent
+TopSignature=inconsistent
+Language=
+
+[Mail Identity]
+Address=kujinechek@gmail.com
+Aliases=
+Name=
+Organization=
+ReplyTo=
+SignatureUid=none

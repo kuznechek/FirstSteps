@@ -1,0 +1,17 @@
+[Data Source]
+DisplayName=Контакты
+Enabled=true
+Parent=c46f65b8bd27a4ae99aa40a584ffb905a67b92db
+
+[Authentication]
+Host=www.google.com
+Method=OAuth2
+Port=0
+ProxyUid=system-proxy
+RememberPassword=true
+User=kujinechek@gmail.com
+CredentialName=
+IsExternal=false
+
+[Address Book]
+BackendName=google

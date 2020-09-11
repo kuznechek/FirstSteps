@@ -1,0 +1,85 @@
+{
+  "Version": "20.04",
+  "OEM": {
+    "Vendor": "innotek GmbH",
+    "Product": "VirtualBox",
+    "Family": "Virtual Machine"
+  },
+  "BIOS": {
+    "Vendor": "innotek GmbH",
+    "Version": "VirtualBox"
+  },
+  "CPU": {
+    "OpMode": "32-bit, 64-bit",
+    "CPUs": "1",
+    "Threads": "1",
+    "Cores": "1",
+    "Sockets": "1",
+    "Vendor": "GenuineIntel",
+    "Family": "6",
+    "Model": "37",
+    "Stepping": "5",
+    "Name": "Intel(R) Core(TM) i5 CPU       M 460  @ 2.53GHz",
+    "Hypervisor": "KVM",
+    "VirtualizationType": "full"
+  },
+  "Arch": "amd64",
+  "GPU": [
+    {
+      "Vendor": "15ad",
+      "Model": "0405"
+    }
+  ],
+  "RAM": 1.7,
+  "Disks": [
+    65.3
+  ],
+  "Partitions": [
+    62,
+    0.5
+  ],
+  "Screens": [
+    {
+      "Size": "0mmx0mm",
+      "Resolution": "800x600",
+      "Frequency": "60.00"
+    }
+  ],
+  "Autologin": true,
+  "LivePatch": false,
+  "Session": {
+    "DE": "ubuntu:GNOME",
+    "Name": "ubuntu",
+    "Type": "x11"
+  },
+  "Language": "ru_RU",
+  "Timezone": "Europe/Moscow",
+  "Install": {
+    "Media": "Ubuntu 20.04.1 LTS \"Focal Fossa\" - Release amd64 (20200731)",
+    "Type": "GTK",
+    "OEM": false,
+    "PartitionMethod": "use_device",
+    "DownloadUpdates": true,
+    "Language": "ru",
+    "Minimal": false,
+    "RestrictedAddons": true,
+    "Stages": {
+      "0": "language",
+      "5": "language",
+      "29": "console_setup",
+      "46": "prepare",
+      "117": "partman",
+      "188": "partman",
+      "189": "partman",
+      "193": "partman",
+      "199": "partman",
+      "218": "partman",
+      "544": "partman",
+      "547": "start_install",
+      "557": "timezone",
+      "568": "usersetup",
+      "627": "user_done",
+      "2314": "done"
+    }
+  }
+}

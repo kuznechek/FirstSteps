@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<application-state>
+  <context id="">
+    <application id="firefox.desktop" score="603" last-seen="1599826062"/>
+    <application id="org.gnome.Nautilus.desktop" score="28" last-seen="1599826053"/>
+    <application id="gnome-control-center.desktop" score="52" last-seen="1599819661"/>
+    <application id="gnome-initial-setup.desktop" score="5" last-seen="1599818299"/>
+    <application id="snap-store_ubuntu-software.desktop" score="59" last-seen="1599820803"/>
+    <application id="sublime-text_subl.desktop" score="70" last-seen="1599825110"/>
+    <application id="org.gnome.Terminal.desktop" score="223" last-seen="1599826054"/>
+  </context>
+</application-state>
